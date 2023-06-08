@@ -1,0 +1,12 @@
+.gameover-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  /* height: 400px; */
+  width: 900px;
+  height: 1000px;
+  background-size: cover;
+}
+.tropy-img {
+  margin-top: 300px;
+  margin-left: 300px;
+  width: 200px;
+}
